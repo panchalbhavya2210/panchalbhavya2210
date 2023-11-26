@@ -1,4 +1,5 @@
 # 💫 About Me:
+<img align="right" alt="Coding" width="1400" src="https://github.com/panchalbhavya2210/readme/blob/main/WhatsApp%20Image%202023-05-30%20at%2018.25.26.jpeg">
 I'm a web developer and UI designer who loves turning ideas into reality. Always looking for ways to improve and grow in my craft!
 
 
