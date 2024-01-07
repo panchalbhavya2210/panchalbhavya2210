@@ -1,4 +1,5 @@
 # 💫 About Me:
+![](https://raw.githubusercontent.com/panchalbhavya2210/assignments/main/img/VID-20240107-WA0016(1)%20(1).gif)
 
 I'm a web developer and UI designer who loves turning ideas into reality. Always looking for ways to improve and grow in my craft!
 
