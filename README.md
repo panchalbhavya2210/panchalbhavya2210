@@ -1,5 +1,5 @@
 # 💫 About Me:
-<img align="right" alt="Coding" width="1400" src="https://github.com/panchalbhavya2210/readme/blob/main/WhatsApp%20Image%202023-05-30%20at%2018.25.26.jpeg">
+
 I'm a web developer and UI designer who loves turning ideas into reality. Always looking for ways to improve and grow in my craft!
 
 
@@ -17,6 +17,3 @@ I'm a web developer and UI designer who loves turning ideas into reality. Always
 ![](https://github-profile-trophy.vercel.app/?username=panchalbhavya2210&theme=matrix&no-frame=true&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=panchalbhavya2210&icon=1&color=8)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
