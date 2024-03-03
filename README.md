@@ -2,6 +2,7 @@
 
 
 ![](https://raw.githubusercontent.com/panchalbhavya2210/panchalbhavya2210/main/abt_me.svg)
+___
 I'm a web developer and UI designer who loves turning ideas into reality. Always looking for ways to improve and grow in my craft!
 
 
