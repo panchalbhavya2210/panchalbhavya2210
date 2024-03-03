@@ -14,6 +14,7 @@ I'm a web developer and UI designer who loves turning ideas into reality. Always
 Git Stats             |  Most Used Language
 :-------------------------:|:-------------------------:
 ![](https://github-readme-stats.vercel.app/api?username=panchalbhavya2210&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&hide_rank=true&hide_title=true)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=panchalbhavya2210&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact&langs_count=15&hide_title=true)
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=panchalbhavya2210&theme=dracula&hide_border=true)
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bhavyapanchal&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 ### 🏆 GitHub Trophies
