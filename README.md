@@ -2,7 +2,6 @@
 
 
 ### ❤️About Me
----
 I'm a web developer and UI designer who loves turning ideas into reality. Always looking for ways to improve and grow in my craft!
 
 
