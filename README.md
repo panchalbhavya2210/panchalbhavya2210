@@ -8,10 +8,7 @@ I'm a web developer and UI designer who loves turning ideas into reality. Always
 ### 🌍Socials
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/agent-47---) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/panchalbhavya22) 
 
-### ✈️SEO 
-[![Portfolio](Portfolio)](https://bhavyapanchal.vercel.app)
 
-[![SEO](https://raw.githubusercontent.com/panchalbhavya2210/panchalbhavya2210/main/Screenshot%202024-03-05%20192821.png)](https://pagespeed.web.dev/analysis/https-bhavyapanchal-vercel-app/7visvwb4sx?form_factor=mobile)
 
 ### 🧑🏻‍💻Tech Stack:
 
